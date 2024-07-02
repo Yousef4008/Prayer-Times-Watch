@@ -25,9 +25,6 @@ This embedded C project implements a digital system to display prayer times, dat
 - **`schematic/`**: Circuit schematics for hardware setup.
 - **`docs/`**: Documentation and user manual for setup and usage.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Authors
 
